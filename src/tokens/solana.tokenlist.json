@@ -34640,9 +34640,26 @@
       "tags": [
         "utility-token",
         "community-token"
-      ]
-    }
-  ],
+        ],
+    },
+   {
+      "chainId": 101,
+      "address": "3BeNF1KsDLwNULvpGCGLmXTrzXm27jjWKMdDjXK8Fp3Gc",
+      "symbol": "EP",
+      "name": "ENERDY POTENTIAL",
+      "decimals": 8,
+      "logoURI": https://thumb.tildacdn.com/tild3363-3439-4463-a634-386334383065/-/resize/320x/-/format/webp/Energy_Potential.png",
+      "tags": [
+        "community-token",
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://www.xmencash.ru"
+        "telegram": "https://t.me/Djcom"
+      }
+    },
+  
+],
   "version": {
     "major": 0,
     "minor": 3,
